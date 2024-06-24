@@ -1,4 +1,4 @@
-// src/app/news/details/[id]/page.js
+
 'use client';
 
 import { useParams } from 'next/navigation';
